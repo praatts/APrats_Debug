@@ -1,0 +1,6 @@
+
+.gitattributes
+.project
+bin/MatrixDebugging.class
+bin/module-info.class
+src/module-info.java
