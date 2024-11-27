@@ -1,4 +1,5 @@
-import 
+package debugging;
+ 
 public class MatrixDebugging {
 
 	public static void main(String[] args) {
